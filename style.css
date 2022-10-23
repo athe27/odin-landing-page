@@ -77,3 +77,38 @@ body {
     flex-direction: column;
     justify-content: space-between;
 }
+
+.info-header {
+    font-size: 36px;
+    font-weight: bolder;
+    color: #1F2937;
+    padding: 40px 0px;
+    text-align: center;
+}
+
+.info-images {
+    padding: 0px 160px;
+    display: flex;
+    column-gap: 20px;
+}
+
+.caption {
+    font-size: 16px;
+    text-align: center;
+    color: #1F2937;
+}
+
+.fake-image {
+    border-radius: 12px;
+    border-width: 3px;
+    border-style: solid;
+    border-color: #3882F6;
+    width: 100%;
+    height: 0%;
+    padding-bottom: 100%;
+    margin-bottom: 7px;
+    -webkit-border-radius: 12px;
+    -moz-border-radius: 12px;
+    -ms-border-radius: 12px;
+    -o-border-radius: 12px;
+}
