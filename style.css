@@ -112,3 +112,23 @@ body {
     -ms-border-radius: 12px;
     -o-border-radius: 12px;
 }
+
+.section-three {
+    margin-top: 100px;
+    padding: 100px 180px;
+    background-color: #E5E7EB;
+}
+
+.quote {
+    font-size: 36px;
+    font-weight: 100;
+    font-style: italic;
+    color: #1F2937;
+}
+
+.citation {
+    text-align: right;
+    color: #1F2937;
+    font-size: 24px;
+    font-weight: bold;
+}
